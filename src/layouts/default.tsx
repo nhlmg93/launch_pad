@@ -5,8 +5,8 @@ import { ParentProps } from "solid-js";
 
 function NavBar() {
   return (
-    <div class="absolute flex justify-center w-screen h-1/5">
-      <div class="relative w-1/4 flex justify-center group">
+    <div class="absolute flex justify-center w-screen h-1/6">
+      <div class="relative w-96 flex justify-center group">
         <div class="transition ease-in-out transform -translate-y-14 group-hover:translate-y-10">
           <ul class="menu menu-horizontal bg-base-200 rounded-box">
             <li>
